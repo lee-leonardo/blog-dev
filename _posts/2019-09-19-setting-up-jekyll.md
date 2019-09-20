@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Messing with Jekyll pt. 1"
+---
+
 # Intent
 
 I really want to build out a dynamic application-like interface like gitbook and etc.
