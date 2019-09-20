@@ -66,9 +66,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+# exclude:
+  # - Gemfile
+  # - Gemfile.lock
+  # - LICENSE
+  # - README.md
+  # - CNAME
