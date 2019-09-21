@@ -24,7 +24,7 @@ version: 0.0.1
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Github Development
-baseurl: "/blog-dev" # the subpath of your site, e.g. /blog
+baseurl: "blog-dev" # the subpath of your site, e.g. /blog
 url: "https://lee-leonardo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: theChromatose
