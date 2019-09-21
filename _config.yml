@@ -24,6 +24,7 @@ github_username:  lee-leonardo
 
 site:
   version: 0.0.1
+  baseurl: https://lee-leonardo.github.io/
 
 # Build settings
 markdown: kramdown
