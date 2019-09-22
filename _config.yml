@@ -20,12 +20,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 version: 0.0.1
 
 # Local Development
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Github Development
-baseurl: "blog-dev" # the subpath of your site, e.g. /blog
-url: "https://lee-leonardo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "blog-dev" # the subpath of your site, e.g. /blog
+# url: "https://lee-leonardo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+github:
+  user: "https://github.com/lee-leonardo"
+  repo: "https://github.com/lee-leonardo/blog-dev"
 
 twitter_username: theChromatose
 github_username:  lee-leonardo
