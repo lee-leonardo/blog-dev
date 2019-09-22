@@ -17,8 +17,20 @@ title: Leonardo Lee's development blog
 email: lee.leonardo.king@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal development blog interim or maybe even permanent. Got rid of squarespace.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+version: 0.0.1
+
+# Local Development
+# baseurl: "" # the the static url path of your site, e.g. http://example.com/blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Github Development
+baseurl: "https://lee-leonardo.github.io/blog-dev" # the the static url path of your site, e.g. http://example.com/blog
+url: "https://lee-leonardo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+github:
+  user: "https://github.com/lee-leonardo"
+  repo: "https://github.com/lee-leonardo/blog-dev"
+
 twitter_username: theChromatose
 github_username:  lee-leonardo
 
